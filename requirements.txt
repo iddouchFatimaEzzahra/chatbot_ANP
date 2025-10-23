@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+plotly
+requests
+streamlit
+python-dotenv
+sentence-transformers
+faiss-cpu
+mysql-connector-python
